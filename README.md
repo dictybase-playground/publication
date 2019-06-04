@@ -1,3 +1,5 @@
+# This project is no longer maintained. Check out the updated [forked version](https://github.com/dictyBase/publication) instead.
+
 ## Master branch
 
 [![Dependency Status](https://david-dm.org/dictybase-playground/Publication/master.svg?style=flat-square)](https://david-dm.org/dictybase-playground/Publication/master)
